@@ -1,4 +1,4 @@
-# Identity-Access-Management
+# Identity And Access Management
 
 ![thumbnail showing IAM processes](image.png)
 
